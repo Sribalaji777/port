@@ -644,8 +644,11 @@ drawParticles();
 ```
 
 ## OUTPUT
-![alt text](1.jpeg)
-![alt text](2.jpeg)
+![alt text](img/1.jpeg)
+![alt text](img/2.jpeg)
+![alt text](img/3.jpeg)
+![alt text](img/4.jpeg)
+
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
